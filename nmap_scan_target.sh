@@ -1,4 +1,4 @@
-#!/bin/bash bash
+#!/bin/bash
 # Usage: script.sh [target]
 
 if [[ $# -ne 1 ]]; then
